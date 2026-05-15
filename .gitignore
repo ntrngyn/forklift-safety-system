@@ -1,0 +1,10 @@
+# Môi trường ảo
+.venv/
+venv/
+
+# Cache của Python
+__pycache__/
+*.pyc
+
+# File hệ thống của macOS
+.DS_Store
