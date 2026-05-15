@@ -3,7 +3,7 @@ import os
 
 class AIEngine:
     def __init__(self):
-        self.model_path = 'weights/best1.pt'
+        self.model_path = 'weights/best.pt'
         self.model = None
         self.load_model(self.model_path)
 
